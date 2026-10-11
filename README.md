@@ -1,4 +1,4 @@
-# Website SMP ISLAM SAWAHN
+# Website SMP ISLAM SAWAHAN
 
 Website satu halaman yang responsif menggunakan HTML, CSS, dan JavaScript tanpa framework.
 
@@ -8,7 +8,7 @@ Website satu halaman yang responsif menggunakan HTML, CSS, dan JavaScript tanpa 
 3. Koneksi internet diperlukan untuk memuat gambar ilustrasi dari Unsplash.
 
 ## Sebelum dipublikasikan
-- Verifikasi ejaan nama sekolah; kode menggunakan `SMP ISLAM SAWAHN` sesuai permintaan.
+- Verifikasi ejaan nama sekolah; kode menggunakan `SMP ISLAM SAWAHAN` sesuai permintaan.
 - Ganti alamat, nomor telepon, email, peta, visi-misi, informasi program, berita, dan prestasi dengan data resmi.
 - Ganti foto ilustrasi dengan dokumentasi sekolah yang diizinkan untuk dipublikasikan.
 - Perbarui tautan email contoh.
